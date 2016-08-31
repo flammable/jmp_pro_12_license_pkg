@@ -6,10 +6,10 @@ You can use these files to deploy a JMP Pro 12.2+ license.
 
 ### Requirements
 
-* The Luggage
+* [The Luggage](https://github.com/unixorn/luggage)
 * JMP 12.2 (or higher)
 * A valid JMP Pro 12 license
-* Munki (optional)
+* [Munki](https://github.com/munki/munki) (optional)
 
 ### How do I use this?
 
